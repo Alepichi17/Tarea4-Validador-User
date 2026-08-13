@@ -35,19 +35,6 @@
                 ? $"Longitud Par"
                 : $"Longitud Impar"
                 );
-
-
-
-
-
-
-
-
-
-
-
-
-
         }
     }
 }
